@@ -1,0 +1,11 @@
+../Core/Src/main.c:21:5:main	1
+../Core/Src/main.c:47:13:MX_DMA_Init	3
+../Core/Src/main.c:90:6:spi_write_chopconf	3
+../Core/Src/main.c:114:6:spi_read_chopconf	5
+../Core/Src/main.c:151:6:select_tmc5160	2
+../Core/Src/main.c:161:6:debug_send	1
+../Core/Src/main.c:167:13:MX_SPI2_Init	2
+../Core/Src/main.c:189:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:206:13:MX_GPIO_Init	1
+../Core/Src/main.c:225:6:SystemClock_Config	3
+../Core/Src/main.c:254:6:Error_Handler	1
